@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CharCounter/static/css/main.e6c13ad2.css",
+    "main.js": "/CharCounter/static/js/main.0833d794.js",
+    "static/js/787.4df142c6.chunk.js": "/CharCounter/static/js/787.4df142c6.chunk.js",
+    "index.html": "/CharCounter/index.html",
+    "main.e6c13ad2.css.map": "/CharCounter/static/css/main.e6c13ad2.css.map",
+    "main.0833d794.js.map": "/CharCounter/static/js/main.0833d794.js.map",
+    "787.4df142c6.chunk.js.map": "/CharCounter/static/js/787.4df142c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0833d794.js"
+  ]
+}
